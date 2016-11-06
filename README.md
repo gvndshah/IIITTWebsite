@@ -1,3 +1,3 @@
-# IIITTWebsite
+ #IIITTWebsite
 
-For our official website.
+For our official website of our college, IIIT Trichy.
